@@ -1,0 +1,62 @@
+body {
+    background-color: #000000;
+    color: #f1f1f1;
+    font-family: Arial, sans-serif;
+}
+
+.card, .navbar {
+    background-color: #1a1325 !important;
+    border: 1px solid #3d2a53;
+}
+
+.card-title, h1, h2, h3, h4 {
+    color: #b98cff;
+}
+
+.btn-primary {
+    background-color: #a56dff;
+    border-color: #a56dff;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #c29bff;
+    border-color: #c29bff;
+}
+
+.btn-success {
+    background-color: #00b050;
+    border-color: #00b050;
+}
+
+a {
+    color: #b98cff;
+}
+
+a:hover {
+    color: #d8c2ff;
+}
+
+.card-img-top {
+    object-fit: cover;
+    height: 200px;
+}
+
+.login-container {
+    background: #000000;
+}
+
+.login-card {
+    background: #1a1325 !important;
+    border: 1px solid #3d2a53;
+}
+
+.card-text {
+    color: #e8d9ff !important;
+}
+
+.badge {
+    background: #a262ff !important;
+    color: white !important;
+}
